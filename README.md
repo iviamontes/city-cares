@@ -1,6 +1,6 @@
 # city-cares
 
-Solution for teaching kids in recylcing best practices
+Solution for teaching kids how to determine what is recyclable 
 
 FRONTEND : [https://github.com/aperdomoll90/city-cares](https://github.com/aperdomoll90/city-cares)
 
